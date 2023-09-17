@@ -3,7 +3,7 @@
 **Trillium INC: https://discord.gg/vzXzFpv2gk**
 
 # Why?
-Sh1t Coffee rename that is paid and has horrible ahh security
+Sh1t Coffee rename that is paid and has horrible ahh security and their servers are vulnerable allat (Which means they are easy to hack in and steal sensitive data + the data being sent on their webhook which isn't hashed).
 
 ![image](https://media.discordapp.net/attachments/1139491534727827518/1149020500912259103/image.png?width=934&height=378)
 
