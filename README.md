@@ -7,6 +7,11 @@ Sh1t Coffee rename that is paid and has horrible ahh security and their servers 
 
 [3000IQPlayA]: https://github.com/3000IQPlay
 
+# How To Use
+1. Download the Fabric installer from here, open it and choose Minecraft 1.19.4 & Fabric Loader 0.14.21
+2. Download BloodyClient-Cracked.jar from this repository page and put it into your .minecraft/mods folder
+3. Start the game (with Fabric)
+
 # Credits
 - ??? - Making the client.
 - [3000IQPlay][3000IQPlayA] - Cracking, Removing Connections.
