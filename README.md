@@ -1,4 +1,4 @@
-<h1 align="center">BloodyClient 0.4.4-EarlyAccess</h1>
+<h1 align="center">Bloody 0.4.4-EarlyAccess</h1>
 
 **Trillium INC: https://discord.gg/vzXzFpv2gk**
 
